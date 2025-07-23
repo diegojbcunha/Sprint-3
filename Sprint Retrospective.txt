@@ -1,0 +1,18 @@
+Sprint Retrospective
+
+O que funcionou bem:
+
+As branches separadas organizaram bem o trabalho
+O versionamento com Git foi eficiente
+As alterações foram implementadas conforme planejado
+
+O que não funcionou bem:
+
+Faltou testar as páginas no navegador durante o desenvolvimento
+Poderia ter mais comunicação entre a equipe
+
+Sugestões de melhoria:
+
+Testar as alterações HTML no navegador antes do commit
+Fazer reuniões diárias mais curtas
+Revisar o código antes do merge
